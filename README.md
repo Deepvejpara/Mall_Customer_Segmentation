@@ -117,7 +117,7 @@ Based on the highly interpretable K-Means clustering model ($K=5$), the mall's c
 * The only notable negative correlation lies between `Age` and `Spending_Score` ($-0.33$), verifying that younger shoppers dominate high-spending behavior.
 
 ### Algorithmic Comparison Benchmark
-![Clustering Comparison](figure/all_compare.jpg)
+![Clustering Comparison](figure/all_compare.png)
 
 * **K-Means:** Strongly splits data space globally into circular partitions around five balanced anchors.
 * **Hierarchical:** Perfectly replicates K-Means boundaries across dense groupings but alters definitions slightly at ambiguous boundary lines.
