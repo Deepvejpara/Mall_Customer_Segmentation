@@ -1,5 +1,7 @@
 # Mall Customer Segmentation - Unsupervised Learning Project
 
+[Project_Overview](https://drive.google.com/drive/folders/10NcWlPVNkTZO0mtHnCxU9CmaJDvOZdlA?usp=drive_link)
+
 This project focuses on customer segmentation using unsupervised learning techniques applied to the **Mall Customer Segmentation Dataset**[cite: 2]. The goal is to identify distinct customer groups based on their demographic features and spending behaviors to assist mall management in designing targeted marketing strategies[cite: 2].
 
 ---
