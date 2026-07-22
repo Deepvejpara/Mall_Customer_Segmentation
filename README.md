@@ -7,11 +7,11 @@ This project focuses on customer segmentation using unsupervised learning techni
 ---
 
 ## 📌 Project Overview
-* **Institute:** Red & White Skill Education[cite: 2]
-* **Subject:** Unsupervised Learning[cite: 2]
-* **Project:** Practical Report 1 (PR 1)[cite: 2]
-* **Dataset:** Mall Customer Segmentation Data (Kaggle)[cite: 2]
-* **Algorithms Implemented:** K-Means Clustering, Agglomerative Hierarchical Clustering, DBSCAN[cite: 2]
+* **Institute:** Red & White Skill Education
+* **Subject:** Unsupervised Learning
+* **Project:** Practical Report 1 (PR 1)
+* **Dataset:** Mall Customer Segmentation Data (Kaggle)
+* **Algorithms Implemented:** K-Means Clustering, Agglomerative Hierarchical Clustering, DBSCAN
 
 ---
 
